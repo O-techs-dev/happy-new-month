@@ -1,0 +1,35 @@
+.inline{
+    display: inline;
+    width: 30%;
+    height: 30%;
+}
+.div1{
+font-family: 'Dancing Script', cursive;
+font-size: large;
+text-align: center;
+display: inline-block;
+background-color: black;
+color: white;
+border: 2%;
+border-color: black;
+border-radius: 10%;
+border-style: dotted;
+width: 30%;
+height: 30%;
+ 
+}
+ 
+.div3{
+    font-family: 'Dancing Script', cursive;
+    font-size: x-large;
+    display: inline-block;
+    text-align: center;
+    background-color: white;
+    color: black;
+    border: 2%;
+    border-color: black;
+    border-radius: 10%;
+    border-style: dotted;
+    width: 30%;
+    height: 30%;
+}

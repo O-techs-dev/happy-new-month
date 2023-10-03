@@ -1,0 +1,101 @@
+body{
+    background-image: url("IMG/ballons.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    font-size: x-large;
+}
+.center{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 25cm;
+ height: 3cm;
+}
+h1{
+text-align: center;
+font-family: 'Permanent Marker', cursive;
+font-size: 150%;
+color: black;
+}
+.own{
+    font-family: 'Dancing Script', cursive;
+    color: red;
+    font-weight: 500;
+    display: inline;
+    cursor: pointer;
+}
+h2{
+font-family: 'Josefin Sans', sans-serif;
+    font-size: 100%;
+    font-weight: 700;
+    color: black;
+}
+ .infor{
+    display: flex;
+    column-gap: 5%;
+    text-align: right;
+    float: right;
+ }
+ .box-1{
+    text-align: right;
+    float: right;
+    
+ }
+ .box-2{
+    text-align: right;
+    float: right;
+ }
+ .reach{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    column-gap: 5%;
+    float: right;
+    
+ }
+ .about{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    column-gap: 5%;
+   float: right;
+   margin-right: 30px
+ }
+ .motto{
+    font-style: italic;
+    padding: 0cm;
+ }
+ .animated-button{
+    background-color: brown;
+    color: white;
+    padding: 010px 20px;
+    border: none;
+    cursor: pointer;
+    transition: backgroung-color 0.3s ease, transform o.3s ease;
+ }  
+ .animated-button:hover{
+    background-color: black;
+    transform: scale(1,5);
+  }
+   
+    @keyframes rotateAnimation {
+      0% {
+        transform: rotate(0deg);
+    
+      }
+    
+      100%{
+        transform: rotate(2deg);
+      }
+    
+  }
+   
+  
+  .animated-button{
+    animation: rotateAnimation 2s linear infinite;
+  }
+  .image{
+    width: 5vb;
+    height: 5vh;
+  }
