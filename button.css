@@ -53,13 +53,16 @@ button{
   width: 5vb;
   height: 5vh;
 }
-footer {
+.job{
+  font-size: xx-large;
+}
+.fot{
   position: fixed;
   bottom: 0;
   left: 0;
   width: 100%;
   background-color: #f5f5f5;
-  color: black;
+  color: red;
   padding: 20px;
   text-align: center;
 }
