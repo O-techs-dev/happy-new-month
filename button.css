@@ -68,11 +68,11 @@ button{
   animation: rotateAnimation 2s linear infinite;
 }
 .image{
-  width: 10%;
-  height: 10%;
+  width: 10hb;
+  height: 10vh;
 }
 .Platform{
-  font-size: xx-large;
+  font-size: 300%;
 }
 .job{
   font-size: xx-large;
