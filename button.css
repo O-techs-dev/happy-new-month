@@ -8,14 +8,14 @@ body{
 }
 .offer{
   color: red;
-  font-size: 450%;
+  font-size: 550%;
   font-family: 'Bebas Neue', sans-serif;
   outline: 100%;
   outline-color: black;
 }
 .kind{
   color: red;
-  font-size: 350%;
+  font-size: 450%;
   font-family: 'Bebas Neue', sans-serif;
   outline: 100%;
   outline-color: black;
@@ -73,6 +73,7 @@ button{
 }
 .Platform{
   font-size: 150%;
+   text-align: center;
 }
 .job{
   font-size: xx-large;
