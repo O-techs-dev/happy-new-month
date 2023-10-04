@@ -103,11 +103,11 @@ font-family: 'Josefin Sans', sans-serif;
   }
   .fott{
     position: fixed;
-    bottom: 1000%;
+    bottom: 0%;
     left: 0;
     background-color: none;
     font-size: small;
-     color: black;
+     color: red;
     width: 100%;
     padding: 20px;
     text-align: center;
