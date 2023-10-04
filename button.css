@@ -3,12 +3,13 @@ body{
   color: aliceblue;
 }
 .offer{
-  color: white;
+  color: red;
   font-size: 350%;
   font-family: 'Bebas Neue', sans-serif;
+   
 }
 .kind{
-  color: white;
+  color: red;
   font-size: 250%;
   font-family: 'Bebas Neue', sans-serif;
 }
