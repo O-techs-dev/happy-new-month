@@ -2,6 +2,16 @@ body{
   background-color: black;
   color: aliceblue;
 }
+.offer{
+  color: white;
+  font-size: 350%;
+  font-family: 'Bebas Neue', sans-serif;
+}
+.kind{
+  color: white;
+  font-size: 250%;
+  font-family: 'Bebas Neue', sans-serif;
+}
 button{
   background-color: brown;
   color: rgb(31, 32, 32);
