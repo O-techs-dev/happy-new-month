@@ -72,6 +72,9 @@ button{
   height: 15%;
 
 }
+.center{
+  text-align: center;
+}
 .Platform{
   font-size: 150%;
 }
