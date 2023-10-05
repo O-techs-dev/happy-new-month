@@ -8,7 +8,7 @@ body{
 }
 .offer{
   color: red;
-  font-size: 400%;
+  font-size: 600%;
   font-family: 'Bebas Neue', sans-serif;
   outline: 100%;
   outline-color: black;
@@ -70,13 +70,13 @@ button{
 .image{
   width: 10hb;
   height: 10vh;
-  margin-top: 10%;
+  margin-top: 30%;
 }
 .Platform{
-  font-size: 150%;
+  font-size: 250%;
 }
 .job{
-  font-size: 300%;
+  font-size: 500%;
 }
 .fot{
   position: fixed;
