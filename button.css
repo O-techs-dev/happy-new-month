@@ -68,8 +68,8 @@ button{
   animation: rotateAnimation 2s linear infinite;
 }
 .image{
-  width: 10hb;
-  height: 10vh;
+  width: 10;
+  height: 10;
 
 }
 .Platform{
