@@ -15,7 +15,7 @@ body{
 }
 .kind{
   color: red;
-  font-size: 300%;
+  font-size: 450%;
   font-family: 'Bebas Neue', sans-serif;
   outline: 100%;
   outline-color: black;
@@ -73,10 +73,10 @@ button{
   margin-top: 30%;
 }
 .Platform{
-  font-size: 250%;
+  font-size: 150%;
 }
 .job{
-  font-size: 500%;
+  font-size: 450%;
 }
 .fot{
   position: fixed;
