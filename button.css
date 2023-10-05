@@ -15,7 +15,7 @@ body{
 }
 .kind{
   color: red;
-  font-size: 450%;
+  font-size: 400%;
   font-family: 'Bebas Neue', sans-serif;
   outline: 100%;
   outline-color: black;
@@ -70,7 +70,9 @@ button{
 .image{
   width: 10hb;
   height: 10vh;
-  margin-top: 30%;
+  margin-top: 25%;
+  margin-bottom: 0%;
+
 }
 .Platform{
   font-size: 150%;
