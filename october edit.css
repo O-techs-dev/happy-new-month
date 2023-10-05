@@ -95,6 +95,7 @@ font-family: 'Josefin Sans', sans-serif;
  .motto{
     font-style: italic;
     padding: 0cm;
+     white-space: nowrap;
  }
   
   .image{
