@@ -18,7 +18,8 @@ body{
    background-color: black;
    color: white;
    border: none;
-   padding: 10px 20px;
+    font-size: 20%
+   padding: 5px 10px;
    cursor: pointer;
 }
 button:hover{
@@ -28,7 +29,7 @@ button:hover{
 .oct{
 text-align: center;
 font-family: 'Mystery Quest', cursive;
-font-size: medium;
+font-size: lager;
 color: black;
 }
 .wish{
