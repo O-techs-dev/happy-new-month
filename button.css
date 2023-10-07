@@ -3,7 +3,7 @@ body{
   background-image: url("IMG/white\ bg.jpg");
   height: cover;
   width: cover;
-  font-size: smaller;
+  font-size: medium;
   background-size: cover;
   background-position: center;
 }
