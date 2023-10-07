@@ -98,13 +98,13 @@ button{
 .job{
   font-size: xx-large;
 }
-.fot{
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  color: red;
-  padding: 10px;
-  text-align: center;
- 
+ .fot{
+   position: fixed;
+   bottom: 0;
+   left: 0;
+   width: 100%;
+   font-size: 67%;
+   color: red;
+   padding: 20px;
+   text-align: center;
 }
