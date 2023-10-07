@@ -38,6 +38,12 @@ body{
  .dropdown:hover .dropdown-content {
    display: block;
  }
+.oct{
+text-align: center;
+font-family: 'Mystery Quest', cursive;
+font-size: larger;
+color: black;
+}
 .wish{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   display: inline;
