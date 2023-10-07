@@ -4,10 +4,10 @@ body{
     width: cover;
     background-size: cover;
     background-position: center;
-    font-size: X-large;
+    font-size: 150%;
 }
 .moto{
-    font-style: small
+    font-style: small;
 }
 .wish{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -33,6 +33,13 @@ color: black;
     font-weight: 500;
     display: inline;
     cursor: pointer;
+}
+.ownn{
+       font-family: 'Dancing Script', cursive;
+    color: blue;
+    font-weight: 500;
+    display: inline;
+    cursor: pointer; 
 }
 .lao{
   font-family: 'Dancing Script', cursive;
