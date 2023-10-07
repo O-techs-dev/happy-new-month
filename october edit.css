@@ -4,11 +4,12 @@ body{
     width: cover;
     background-size: cover;
     background-position: center;
-    font-size: 400%;
+    font-size: 200%;
 }
 .wish{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   display: inline;
+    font-size: larger;
 }
 .center{
  display: block;
@@ -45,7 +46,7 @@ font-family: 'Josefin Sans', sans-serif;
 }
  .infor{
     display: flex;
-    column-gap: 5%;
+    column-gap: 2%;
     text-align: right;
     float: right;
  }
