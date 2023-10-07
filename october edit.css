@@ -4,11 +4,12 @@ body{
     width: cover;
     background-size: cover;
     background-position: center;
-    font-size: x-large;
+    font-size: lager;
 }
 .wish{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   display: inline;
+    font-size: 70%; 
 }
 .center{
  display: block;
@@ -39,7 +40,7 @@ color: black;
 }
 h2{
 font-family: 'Josefin Sans', sans-serif;
-    font-size: 90%;
+    font-size: 80%;
     font-weight: 500;
     color: black;
 }
@@ -92,9 +93,10 @@ font-family: 'Josefin Sans', sans-serif;
   color: black;
   transform: scale(1,1);
  }
- .motto{
+ P{
+     margin: 0%;
+   line-height: 1;
     padding: 0cm;
-     white-space: nowrap;
  }
   
   .image{
