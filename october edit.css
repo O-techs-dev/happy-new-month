@@ -4,7 +4,10 @@ body{
     width: cover;
     background-size: cover;
     background-position: center;
-    font-size: lager;
+    font-size: X-large;
+}
+.moto{
+    font-style: small
 }
 .wish{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
