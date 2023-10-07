@@ -8,16 +8,9 @@ body{
 }
 h2{
   positon: relative;
-  left: 90px;
+  left: 50px;
 }
-h3{
-  positon: relative;
-  left: 90px;
-}
-h4{
-  positon: relative;
-  left: 90px;
-}
+ 
 .offer{
   color: red;
   font-size: 650%;
@@ -27,7 +20,7 @@ h4{
 }
 .kind{
   color: red;
-  font-size: 400%;
+  font-size: 350%;
   font-family: 'Bebas Neue', sans-serif;
   outline: 100%;
   outline-color: black;
@@ -90,7 +83,7 @@ button{
   text-align: center;
 }
 .Platform{
-  font-size: 200%;
+  font-size: 150%;
    text-align: justify;
 }
 .job{
@@ -101,7 +94,7 @@ button{
   bottom: 0;
   left: 0;
   width: 100%;
-  font-size: small;
+  font-size: medium;
   color: red;
   padding: 20px;
   text-align: center;
