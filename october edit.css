@@ -4,7 +4,7 @@ body{
     width: cover;
     background-size: cover;
     background-position: center;
-    font-size: xx-large;
+    font-size: 400%;
 }
 .wish{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -39,7 +39,7 @@ color: black;
 }
 h2{
 font-family: 'Josefin Sans', sans-serif;
-    font-size: 70%;
+    font-size: 200%;
     font-weight: 500;
     color: black;
 }
@@ -103,7 +103,7 @@ font-family: 'Josefin Sans', sans-serif;
     padding: 0cm;
  }
  .moto{
-   font-size: 50%;
+   font-size: 20%;
  }
   
  
