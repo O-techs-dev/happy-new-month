@@ -106,9 +106,9 @@ font-family: 'Josefin Sans', sans-serif;
  .moto{
    font-size: 50%;
  }
-  .big-mot{
+  .big-moto{
       font-size: 100%;
-      color: rgb(0, 238, 255);
+      color: rgba(173, 11, 11, 0.753);
      }
  
   .image{
