@@ -1,8 +1,8 @@
 body{
   color: black;
   background-image: url("IMG/white\ bg.jpg");
-  height: 5vh;
-  width: 45vb;
+  height: 2vh;
+  width: 40vb;
   font-size: medium;
   background-size: cover;
   background-position: center;
@@ -10,7 +10,7 @@ body{
   
  h2{
   position: relative;
-  left: 90px;
+  left: 85px;
    font-size: 100%;
  }
  
