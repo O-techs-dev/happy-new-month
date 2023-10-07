@@ -2,7 +2,7 @@ body{
   color: black;
   background-image: url("IMG/white\ bg.jpg");
   height: 10vh;
-  width: 30vb;
+  width: 50vb;
   font-size: medium;
   background-size: cover;
   background-position: center;
@@ -23,7 +23,7 @@ body{
    
 }
 .kind{
-  color: green;
+  color: red;
   font-size: 250%;
   font-family: 'Bebas Neue', sans-serif;
   outline: 100%;
