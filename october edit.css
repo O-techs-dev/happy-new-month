@@ -93,7 +93,7 @@ font-family: 'Josefin Sans', sans-serif;
   color: black;
   transform: scale(1,1);
  }
- P{
+ p{
      margin: 0%;
    line-height: 1;
     padding: 0cm;
@@ -103,12 +103,12 @@ font-family: 'Josefin Sans', sans-serif;
     width: 50%;
     height: 50%;
   }
-  .fott{
+  .fot{
     position: fixed;
     bottom: 0%;
     left: 0;
     background-color: none;
-    font-size: smaller;
+    font-size: larger;
      color: red;
     width: 100%;
     padding: 20px;
