@@ -4,7 +4,7 @@ body{
     width: cover;
     background-size: cover;
     background-position: center;
-    font-size: medium;
+    font-size: larger;
 }
 .wish{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -62,7 +62,7 @@ font-family: 'Josefin Sans', sans-serif;
     background-color: black;
     color: white;
     cursor: pointer;
-    column-gap: 5%;
+    column-gap: 2%;
     float: right;
     background-color: black;
   transform: scale(1,1);
@@ -80,7 +80,7 @@ font-family: 'Josefin Sans', sans-serif;
     background-color: black;
     color: white;
     cursor: pointer;
-    column-gap: 5%;
+    column-gap: 2%;
    float: right;
    margin-right: 30px;
    background-color: black;
@@ -103,7 +103,7 @@ font-family: 'Josefin Sans', sans-serif;
     padding: 0cm;
  }
  .moto{
-   font-size: small;
+   font-size: 100%;
  }
   
  
