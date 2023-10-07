@@ -6,6 +6,28 @@ body{
     background-position: center;
     font-size: 200%;
 }
+ .dropdown-content {
+   display: none;
+   position: absolute;
+   background-color: black;
+   width: 250%;
+   height: 200%;
+   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+   z-index: 1;
+ }
+ 
+ .dropdown-content a {
+   color: white;
+   font-size: medium;
+   text-align: center;
+   padding: 0;
+   line-height: 2;
+   text-decoration: none;
+   display: block;
+ }
+ .dropdown:hover .dropdown-content {
+   display: block;
+ }
 .wish{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   display: inline;
@@ -98,17 +120,19 @@ font-family: 'Josefin Sans', sans-serif;
    top: 0px;
    right: 0px;
  }
- p{
+p{
    margin: 0%;
    line-height: 1;
     padding: 0cm;
+    margin-left: 85%;
  }
  .moto{
    font-size: 50%;
  }
   .big-moto{
-      font-size: 100%;
-      color: rgba(173, 11, 11, 0.753);
+       font-size: smaller;
+   color: rgba(173, 11, 11, 0.753);
+   margin-left: 85%;
      }
  
   .image{
