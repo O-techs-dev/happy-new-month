@@ -4,7 +4,7 @@ body{
     width: cover;
     background-size: cover;
     background-position: center;
-    font-size: large;
+    font-size: 200%;
 }
 .wish{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -104,9 +104,12 @@ font-family: 'Josefin Sans', sans-serif;
     padding: 0cm;
  }
  .moto{
-   font-size: 20%;
+   font-size: 50%;
  }
-  
+  .big-mot{
+      font-size: 100%;
+      color: rgb(0, 238, 255);
+     }
  
   .image{
     width: 50%;
